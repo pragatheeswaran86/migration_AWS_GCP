@@ -1,11 +1,11 @@
 variable "project_id" {
-  default = "migrationproject-484414"
+  default = "mytest-486510"
 }
 
 variable "region" {
-  default = "us-central1"
+  default = "asia-south1"
 }
 
 variable "zone" {
-  default = "us-central1-a"
+  default = "asia-south1-c"
 }
